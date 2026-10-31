@@ -1,0 +1,22 @@
+[
+  {
+    "catalogue_id": "MCU-MV-001",
+    "title": "Iron Man",
+    "iconic_moment": {
+      "description": "Tony Stark removes his sunglasses and addresses the press conference with the unscripted admission: 'I am Iron Man.'",
+      "image_url": "https://images.marvel.com/...",
+      "source_url": "https://www.marvel.com/movies/iron-man",
+      "resolution": "3840x2160",
+      "attribution": "Marvel Studios / Paramount Pictures",
+      "verification_status": "VERIFIED"
+    },
+    "legendary_dialogue": {
+      "text": "I am Iron Man.",
+      "character": "Tony Stark",
+      "production": "Iron Man",
+      "year": "2008",
+      "source_url": "https://www.marvel.com/movies/iron-man",
+      "verification_status": "VERIFIED"
+    }
+  }
+]

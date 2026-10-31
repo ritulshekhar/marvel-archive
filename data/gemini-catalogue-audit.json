@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Blade",
+    "release_date": "1998-08-21",
+    "release_year": "1998",
+    "content_type": "Feature Film",
+    "universe": "Blade Universe",
+    "franchise": "Blade",
+    "synopsis": "A half-vampire, half-mortal man-turned-protector of the human race slaughters evil vampires to avenge his mother's death.",
+    "source_urls": [
+      "https://www.warnerbros.com/movies/blade",
+      "https://www.afi.com/catalog/"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Historic first commercial box office blockbuster under Marvel licensing."
+  },
+  {
+    "title": "X-Men",
+    "release_date": "2000-07-14",
+    "release_year": "2000",
+    "content_type": "Feature Film",
+    "universe": "Fox X-Men Universe",
+    "franchise": "X-Men",
+    "synopsis": "Two mutants come to a private academy for their kind whose resident superhero team must oppose a terrorist organization with similar powers.",
+    "source_urls": [
+      "https://www.20thcenturystudios.com/movies/x-men",
+      "https://www.marvel.com"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Inaugural film of the 13-film 20th Century Fox X-Men franchise."
+  },
+  {
+    "title": "Spider-Man",
+    "release_date": "2002-05-03",
+    "release_year": "2002",
+    "content_type": "Feature Film",
+    "universe": "Raimi Spider-Man Universe (Earth-96283)",
+    "franchise": "Spider-Man",
+    "synopsis": "After being bitten by a genetically altered spider, high school student Peter Parker gains spider-like abilities and uses them to fight crime in New York City.",
+    "source_urls": [
+      "https://www.sonypictures.com/movies/spiderman",
+      "https://www.marvel.com"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Original theatrical film directed by Sam Raimi that set modern box-office milestones."
+  },
+  {
+    "title": "Daredevil (Marvel Television Series)",
+    "release_date": "2015-04-10",
+    "release_year": "2015",
+    "content_type": "TV Series",
+    "universe": "Marvel Cinematic Universe / The Defenders Saga",
+    "franchise": "The Defenders",
+    "synopsis": "A blind lawyer by day uses his heightened senses to fight crime as a masked vigilante by night in Hell's Kitchen, New York City.",
+    "source_urls": [
+      "https://www.disneyplus.com",
+      "https://www.marvel.com/tv-shows/daredevil"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Critical flagship series of Marvel Television's Netflix lineup, canonically re-integrated into the MCU."
+  },
+  {
+    "title": "Werewolf by Night",
+    "release_date": "2022-10-07",
+    "release_year": "2022",
+    "content_type": "Special Presentation",
+    "universe": "Marvel Cinematic Universe (Earth-616)",
+    "franchise": "Marvel Studios Special Presentations",
+    "synopsis": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the Bloodstone Temple following the death of their leader.",
+    "source_urls": [
+      "https://www.disneyplus.com",
+      "https://www.marvel.com/movies/werewolf-by-night"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Marvel Studios' inaugural medium-length Special Presentation."
+  },
+  {
+    "title": "Spider-Man: The Animated Series",
+    "release_date": "1994-11-19",
+    "release_year": "1994",
+    "content_type": "Animated Series",
+    "universe": "Marvel Animated Universe (Earth-92131)",
+    "franchise": "Spider-Man Animation",
+    "synopsis": "Peter Parker balances college life, photojournalism, and superheroics while facing classic rogues in 1990s New York.",
+    "source_urls": [
+      "https://www.marvel.com",
+      "https://www.disneyplus.com"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Foundational 65-episode animated adaptation defining the character for an entire generation."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_date": "2018-12-14",
+    "release_year": "2018",
+    "content_type": "Animated Feature",
+    "universe": "Sony Spider-Verse",
+    "franchise": "Spider-Verse",
+    "synopsis": "Teenager Miles Morales becomes the new Spider-Man and joins other Spider-heroes from parallel dimensions to stop a threat to all realities.",
+    "source_urls": [
+      "https://www.sonypicturesanimation.com",
+      "https://www.marvel.com"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "Academy Award-winning animated theatrical feature."
+  },
+  {
+    "title": "The Consultant",
+    "release_date": "2011-09-13",
+    "release_year": "2011",
+    "content_type": "Short Film (One-Shot)",
+    "universe": "Marvel Cinematic Universe",
+    "franchise": "Marvel One-Shots",
+    "synopsis": "Agents Coulson and Sitwell conspire to ensure Emil Blonsky is not released to join the Avengers Initiative.",
+    "source_urls": [
+      "https://www.disneyplus.com",
+      "https://www.marvel.com"
+    ],
+    "verification_status": "VERIFIED",
+    "reason_for_inclusion": "The first official Marvel One-Shot released to bridge MCU theatrical continuity."
+  }
+]

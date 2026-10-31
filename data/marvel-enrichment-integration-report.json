@@ -1,0 +1,16 @@
+{
+  "sourceRecords": 1,
+  "catalogueEntries": 64,
+  "matchedRecords": 0,
+  "successfullyEnriched": 0,
+  "unmatchedIds": [
+    "MCU-MV-001"
+  ],
+  "duplicateIds": [],
+  "missingImageIds": [
+    "MCU-MV-001"
+  ],
+  "unverifiedDialogueIds": [],
+  "preservedConflicts": [],
+  "watchProgressModified": 0
+}

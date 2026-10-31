@@ -4,7 +4,7 @@ A cinematic, local-first watch tracker for Marvel screen stories. The archive ru
 
 ## Catalogue scope and accuracy
 
-The bundled catalogue is a **curated starter collection, not an exhaustive Marvel screen-media catalogue**. It contains 64 records across eight universes, including MCU, Fox X-Men, Sony, Marvel Television, and standalone continuities. Per-entry source links and chronology confidence are included in `src/lib/catalog.ts`; disputed or approximate placements are labeled. Poster and scene imagery is intentionally absent until an attributable source can be verified. The UI shows an explicit fallback and does not invent a scene still or quote. The coverage audit is generated at `data/coverage-report.json` by `npm run catalog:validate`.
+The bundled catalogue is an **expanded, still non-exhaustive Marvel screen-media catalogue**. It contains 80 records across nine universe labels. Per-entry source links, separate continuity IDs, and verification status are available in `src/lib/catalog.ts`; disputed or approximate placements are labeled. Poster and scene imagery remains absent until attributable assets can be verified. The UI uses its existing fallback and does not invent artwork or dialogue. See `data/catalogue-expansion-audit.md` for the Gemini candidate reconciliation and `data/coverage-report.json` for structural validation.
 
 Expand the catalogue with verified entries before describing it as complete. Release dates in this initial collection are premiere/theatrical dates for the listed parent entries; individual episode-level dates and episode records are not yet bundled. Series progress is tracked by episode count, while movie progress is one unit per feature, so series and parent rows are never double-counted.
 
@@ -35,6 +35,7 @@ Keep the token server-side; do not prefix it with `NEXT_PUBLIC_`. The app curren
 ## Data and deployment
 
 - Edit catalogue records in `src/lib/catalog.ts` and run `npm run catalog:validate`.
+- Rebuild the current candidate reconciliation with `npm run catalog:reconcile`; the supplied Gemini JSON has 8 candidate rows, despite the prompt's reference to 272.
 - The validation command checks unique IDs, required release data, episode counts, source references, chronology labels, and records missing artwork. Its report expressly identifies this collection as non-exhaustive.
 - `npm run typecheck` and `npm run build` check the app.
 - Deploy to any Node-capable Next.js host. The app needs no server database. Browser-local progress is device/browser-specific; use Mission Control's export/import controls to move a JSON backup.
