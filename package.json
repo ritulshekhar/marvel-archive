@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "catalog:validate": "node scripts/validate-catalog.mjs",
+    "enrichment:report": "node scripts/report-enrichment.mjs",
     "enrichment:integrate": "node scripts/integrate-enrichment.mjs",
     "catalog:reconcile": "node scripts/reconcile-gemini-audit.mjs"
   },

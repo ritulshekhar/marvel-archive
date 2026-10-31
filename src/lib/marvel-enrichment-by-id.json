@@ -1,1 +1,22 @@
-{}
+{
+  "iron-man": {
+    "legendary_dialogue": {
+      "text": "I am Iron Man.",
+      "character": "Tony Stark",
+      "production": "Iron Man",
+      "year": 2008,
+      "source_url": "https://www.marvel.com/articles/movies/iron-man-kevin-feige-jon-favreau-15-anniversary-interview",
+      "verification_status": "VERIFIED"
+    }
+  },
+  "wandavision": {
+    "iconic_moment": {
+      "description": "White Vision appears in Westview in the series finale.",
+      "image_url": "https://cdn.marvel.com/content/2x/cds1320_109_comp_v046_20210130_r709.1047.webp",
+      "source_url": "https://www.marvel.com/articles/tv-shows/wandavision-images-episode-9",
+      "resolution": "Marvel CDN 2x rendition; pixel dimensions not independently confirmed",
+      "attribution": "Marvel Studios / Marvel.com",
+      "verification_status": "VERIFIED"
+    }
+  }
+}

@@ -1,0 +1,710 @@
+{
+  "totalEntries": 85,
+  "authenticSceneImagesAdded": 1,
+  "entriesWithoutVerifiedSceneImages": 84,
+  "verifiedDialoguesAdded": 1,
+  "entriesWithoutVerifiedDialogue": 84,
+  "brokenImageUrls": 0,
+  "brokenImageUrlCheck": "No URL was confirmed broken; the CDN image URL could not be independently fetched by the research browser. Availability should be rechecked at runtime.",
+  "entriesRequiringManualReview": 85,
+  "addedImages": [
+    {
+      "id": "wandavision",
+      "title": "WandaVision",
+      "url": "https://cdn.marvel.com/content/2x/cds1320_109_comp_v046_20210130_r709.1047.webp"
+    }
+  ],
+  "addedDialogues": [
+    {
+      "id": "iron-man",
+      "title": "Iron Man",
+      "source": "https://www.marvel.com/articles/movies/iron-man-kevin-feige-jon-favreau-15-anniversary-interview"
+    }
+  ],
+  "entriesWithoutImage": [
+    {
+      "id": "iron-man",
+      "title": "Iron Man"
+    },
+    {
+      "id": "incredible-hulk",
+      "title": "The Incredible Hulk"
+    },
+    {
+      "id": "iron-man-2",
+      "title": "Iron Man 2"
+    },
+    {
+      "id": "thor",
+      "title": "Thor"
+    },
+    {
+      "id": "captain-america-first-avenger",
+      "title": "Captain America: The First Avenger"
+    },
+    {
+      "id": "avengers",
+      "title": "The Avengers"
+    },
+    {
+      "id": "iron-man-3",
+      "title": "Iron Man 3"
+    },
+    {
+      "id": "thor-dark-world",
+      "title": "Thor: The Dark World"
+    },
+    {
+      "id": "captain-america-winter-soldier",
+      "title": "Captain America: The Winter Soldier"
+    },
+    {
+      "id": "guardians",
+      "title": "Guardians of the Galaxy"
+    },
+    {
+      "id": "age-of-ultron",
+      "title": "Avengers: Age of Ultron"
+    },
+    {
+      "id": "ant-man",
+      "title": "Ant-Man"
+    },
+    {
+      "id": "civil-war",
+      "title": "Captain America: Civil War"
+    },
+    {
+      "id": "doctor-strange",
+      "title": "Doctor Strange"
+    },
+    {
+      "id": "guardians-2",
+      "title": "Guardians of the Galaxy Vol. 2"
+    },
+    {
+      "id": "homecoming",
+      "title": "Spider-Man: Homecoming"
+    },
+    {
+      "id": "ragnarok",
+      "title": "Thor: Ragnarok"
+    },
+    {
+      "id": "black-panther",
+      "title": "Black Panther"
+    },
+    {
+      "id": "infinity-war",
+      "title": "Avengers: Infinity War"
+    },
+    {
+      "id": "ant-man-wasp",
+      "title": "Ant-Man and The Wasp"
+    },
+    {
+      "id": "captain-marvel",
+      "title": "Captain Marvel"
+    },
+    {
+      "id": "endgame",
+      "title": "Avengers: Endgame"
+    },
+    {
+      "id": "far-from-home",
+      "title": "Spider-Man: Far From Home"
+    },
+    {
+      "id": "black-widow",
+      "title": "Black Widow"
+    },
+    {
+      "id": "shang-chi",
+      "title": "Shang-Chi and the Legend of the Ten Rings"
+    },
+    {
+      "id": "eternals",
+      "title": "Eternals"
+    },
+    {
+      "id": "no-way-home",
+      "title": "Spider-Man: No Way Home"
+    },
+    {
+      "id": "multiverse-madness",
+      "title": "Doctor Strange in the Multiverse of Madness"
+    },
+    {
+      "id": "love-thunder",
+      "title": "Thor: Love and Thunder"
+    },
+    {
+      "id": "wakanda-forever",
+      "title": "Black Panther: Wakanda Forever"
+    },
+    {
+      "id": "quantumania",
+      "title": "Ant-Man and The Wasp: Quantumania"
+    },
+    {
+      "id": "guardians-3",
+      "title": "Guardians of the Galaxy Vol. 3"
+    },
+    {
+      "id": "marvels",
+      "title": "The Marvels"
+    },
+    {
+      "id": "deadpool-wolverine",
+      "title": "Deadpool & Wolverine"
+    },
+    {
+      "id": "brave-new-world",
+      "title": "Captain America: Brave New World"
+    },
+    {
+      "id": "thunderbolts",
+      "title": "Thunderbolts*"
+    },
+    {
+      "id": "fantastic-four-first-steps",
+      "title": "The Fantastic Four: First Steps"
+    },
+    {
+      "id": "x-men",
+      "title": "X-Men"
+    },
+    {
+      "id": "x2",
+      "title": "X2: X-Men United"
+    },
+    {
+      "id": "last-stand",
+      "title": "X-Men: The Last Stand"
+    },
+    {
+      "id": "first-class",
+      "title": "X-Men: First Class"
+    },
+    {
+      "id": "days-future-past",
+      "title": "X-Men: Days of Future Past"
+    },
+    {
+      "id": "deadpool",
+      "title": "Deadpool"
+    },
+    {
+      "id": "logan",
+      "title": "Logan"
+    },
+    {
+      "id": "into-spider-verse",
+      "title": "Spider-Man: Into the Spider-Verse"
+    },
+    {
+      "id": "spider-man-2002",
+      "title": "Spider-Man"
+    },
+    {
+      "id": "spider-man-2",
+      "title": "Spider-Man 2"
+    },
+    {
+      "id": "amazing-spider-man",
+      "title": "The Amazing Spider-Man"
+    },
+    {
+      "id": "spider-verse-2",
+      "title": "Spider-Man: Across the Spider-Verse"
+    },
+    {
+      "id": "blade",
+      "title": "Blade"
+    },
+    {
+      "id": "fantastic-four-2005",
+      "title": "Fantastic Four"
+    },
+    {
+      "id": "daredevil-2003",
+      "title": "Daredevil"
+    },
+    {
+      "id": "loki",
+      "title": "Loki"
+    },
+    {
+      "id": "hawkeye",
+      "title": "Hawkeye"
+    },
+    {
+      "id": "moon-knight",
+      "title": "Moon Knight"
+    },
+    {
+      "id": "she-hulk",
+      "title": "She-Hulk: Attorney at Law"
+    },
+    {
+      "id": "daredevil-netflix",
+      "title": "Marvel’s Daredevil"
+    },
+    {
+      "id": "jessica-jones",
+      "title": "Marvel’s Jessica Jones"
+    },
+    {
+      "id": "luke-cage",
+      "title": "Marvel’s Luke Cage"
+    },
+    {
+      "id": "iron-fist",
+      "title": "Marvel’s Iron Fist"
+    },
+    {
+      "id": "defenders",
+      "title": "Marvel’s The Defenders"
+    },
+    {
+      "id": "punisher",
+      "title": "Marvel’s The Punisher"
+    },
+    {
+      "id": "x-men-97",
+      "title": "X-Men ’97"
+    },
+    {
+      "id": "werewolf-by-night",
+      "title": "Werewolf by Night"
+    },
+    {
+      "id": "the-consultant-one-shot",
+      "title": "Marvel One-Shot: The Consultant"
+    },
+    {
+      "id": "spider-man-animated-series-1994",
+      "title": "Spider-Man"
+    },
+    {
+      "id": "ms-marvel",
+      "title": "Ms. Marvel"
+    },
+    {
+      "id": "secret-invasion",
+      "title": "Secret Invasion"
+    },
+    {
+      "id": "echo",
+      "title": "Echo"
+    },
+    {
+      "id": "agatha-all-along",
+      "title": "Agatha All Along"
+    },
+    {
+      "id": "ironheart",
+      "title": "Ironheart"
+    },
+    {
+      "id": "daredevil-born-again-s1",
+      "title": "Daredevil: Born Again — Season 1"
+    },
+    {
+      "id": "your-friendly-neighborhood-spider-man",
+      "title": "Your Friendly Neighborhood Spider-Man"
+    },
+    {
+      "id": "eyes-of-wakanda",
+      "title": "Eyes of Wakanda"
+    },
+    {
+      "id": "marvel-zombies",
+      "title": "Marvel Zombies"
+    },
+    {
+      "id": "what-if",
+      "title": "What If...?"
+    },
+    {
+      "id": "guardians-holiday-special",
+      "title": "The Guardians of the Galaxy Holiday Special"
+    },
+    {
+      "id": "i-am-groot",
+      "title": "I Am Groot"
+    },
+    {
+      "id": "mpower",
+      "title": "MPower"
+    },
+    {
+      "id": "x-men-origins-wolverine",
+      "title": "X-Men Origins: Wolverine"
+    },
+    {
+      "id": "the-wolverine",
+      "title": "The Wolverine"
+    },
+    {
+      "id": "x-men-apocalypse",
+      "title": "X-Men: Apocalypse"
+    },
+    {
+      "id": "dark-phoenix",
+      "title": "Dark Phoenix"
+    },
+    {
+      "id": "the-new-mutants",
+      "title": "The New Mutants"
+    }
+  ],
+  "entriesWithoutDialogue": [
+    {
+      "id": "incredible-hulk",
+      "title": "The Incredible Hulk"
+    },
+    {
+      "id": "iron-man-2",
+      "title": "Iron Man 2"
+    },
+    {
+      "id": "thor",
+      "title": "Thor"
+    },
+    {
+      "id": "captain-america-first-avenger",
+      "title": "Captain America: The First Avenger"
+    },
+    {
+      "id": "avengers",
+      "title": "The Avengers"
+    },
+    {
+      "id": "iron-man-3",
+      "title": "Iron Man 3"
+    },
+    {
+      "id": "thor-dark-world",
+      "title": "Thor: The Dark World"
+    },
+    {
+      "id": "captain-america-winter-soldier",
+      "title": "Captain America: The Winter Soldier"
+    },
+    {
+      "id": "guardians",
+      "title": "Guardians of the Galaxy"
+    },
+    {
+      "id": "age-of-ultron",
+      "title": "Avengers: Age of Ultron"
+    },
+    {
+      "id": "ant-man",
+      "title": "Ant-Man"
+    },
+    {
+      "id": "civil-war",
+      "title": "Captain America: Civil War"
+    },
+    {
+      "id": "doctor-strange",
+      "title": "Doctor Strange"
+    },
+    {
+      "id": "guardians-2",
+      "title": "Guardians of the Galaxy Vol. 2"
+    },
+    {
+      "id": "homecoming",
+      "title": "Spider-Man: Homecoming"
+    },
+    {
+      "id": "ragnarok",
+      "title": "Thor: Ragnarok"
+    },
+    {
+      "id": "black-panther",
+      "title": "Black Panther"
+    },
+    {
+      "id": "infinity-war",
+      "title": "Avengers: Infinity War"
+    },
+    {
+      "id": "ant-man-wasp",
+      "title": "Ant-Man and The Wasp"
+    },
+    {
+      "id": "captain-marvel",
+      "title": "Captain Marvel"
+    },
+    {
+      "id": "endgame",
+      "title": "Avengers: Endgame"
+    },
+    {
+      "id": "far-from-home",
+      "title": "Spider-Man: Far From Home"
+    },
+    {
+      "id": "black-widow",
+      "title": "Black Widow"
+    },
+    {
+      "id": "shang-chi",
+      "title": "Shang-Chi and the Legend of the Ten Rings"
+    },
+    {
+      "id": "eternals",
+      "title": "Eternals"
+    },
+    {
+      "id": "no-way-home",
+      "title": "Spider-Man: No Way Home"
+    },
+    {
+      "id": "multiverse-madness",
+      "title": "Doctor Strange in the Multiverse of Madness"
+    },
+    {
+      "id": "love-thunder",
+      "title": "Thor: Love and Thunder"
+    },
+    {
+      "id": "wakanda-forever",
+      "title": "Black Panther: Wakanda Forever"
+    },
+    {
+      "id": "quantumania",
+      "title": "Ant-Man and The Wasp: Quantumania"
+    },
+    {
+      "id": "guardians-3",
+      "title": "Guardians of the Galaxy Vol. 3"
+    },
+    {
+      "id": "marvels",
+      "title": "The Marvels"
+    },
+    {
+      "id": "deadpool-wolverine",
+      "title": "Deadpool & Wolverine"
+    },
+    {
+      "id": "brave-new-world",
+      "title": "Captain America: Brave New World"
+    },
+    {
+      "id": "thunderbolts",
+      "title": "Thunderbolts*"
+    },
+    {
+      "id": "fantastic-four-first-steps",
+      "title": "The Fantastic Four: First Steps"
+    },
+    {
+      "id": "x-men",
+      "title": "X-Men"
+    },
+    {
+      "id": "x2",
+      "title": "X2: X-Men United"
+    },
+    {
+      "id": "last-stand",
+      "title": "X-Men: The Last Stand"
+    },
+    {
+      "id": "first-class",
+      "title": "X-Men: First Class"
+    },
+    {
+      "id": "days-future-past",
+      "title": "X-Men: Days of Future Past"
+    },
+    {
+      "id": "deadpool",
+      "title": "Deadpool"
+    },
+    {
+      "id": "logan",
+      "title": "Logan"
+    },
+    {
+      "id": "into-spider-verse",
+      "title": "Spider-Man: Into the Spider-Verse"
+    },
+    {
+      "id": "spider-man-2002",
+      "title": "Spider-Man"
+    },
+    {
+      "id": "spider-man-2",
+      "title": "Spider-Man 2"
+    },
+    {
+      "id": "amazing-spider-man",
+      "title": "The Amazing Spider-Man"
+    },
+    {
+      "id": "spider-verse-2",
+      "title": "Spider-Man: Across the Spider-Verse"
+    },
+    {
+      "id": "blade",
+      "title": "Blade"
+    },
+    {
+      "id": "fantastic-four-2005",
+      "title": "Fantastic Four"
+    },
+    {
+      "id": "daredevil-2003",
+      "title": "Daredevil"
+    },
+    {
+      "id": "wandavision",
+      "title": "WandaVision"
+    },
+    {
+      "id": "loki",
+      "title": "Loki"
+    },
+    {
+      "id": "hawkeye",
+      "title": "Hawkeye"
+    },
+    {
+      "id": "moon-knight",
+      "title": "Moon Knight"
+    },
+    {
+      "id": "she-hulk",
+      "title": "She-Hulk: Attorney at Law"
+    },
+    {
+      "id": "daredevil-netflix",
+      "title": "Marvel’s Daredevil"
+    },
+    {
+      "id": "jessica-jones",
+      "title": "Marvel’s Jessica Jones"
+    },
+    {
+      "id": "luke-cage",
+      "title": "Marvel’s Luke Cage"
+    },
+    {
+      "id": "iron-fist",
+      "title": "Marvel’s Iron Fist"
+    },
+    {
+      "id": "defenders",
+      "title": "Marvel’s The Defenders"
+    },
+    {
+      "id": "punisher",
+      "title": "Marvel’s The Punisher"
+    },
+    {
+      "id": "x-men-97",
+      "title": "X-Men ’97"
+    },
+    {
+      "id": "werewolf-by-night",
+      "title": "Werewolf by Night"
+    },
+    {
+      "id": "the-consultant-one-shot",
+      "title": "Marvel One-Shot: The Consultant"
+    },
+    {
+      "id": "spider-man-animated-series-1994",
+      "title": "Spider-Man"
+    },
+    {
+      "id": "ms-marvel",
+      "title": "Ms. Marvel"
+    },
+    {
+      "id": "secret-invasion",
+      "title": "Secret Invasion"
+    },
+    {
+      "id": "echo",
+      "title": "Echo"
+    },
+    {
+      "id": "agatha-all-along",
+      "title": "Agatha All Along"
+    },
+    {
+      "id": "ironheart",
+      "title": "Ironheart"
+    },
+    {
+      "id": "daredevil-born-again-s1",
+      "title": "Daredevil: Born Again — Season 1"
+    },
+    {
+      "id": "your-friendly-neighborhood-spider-man",
+      "title": "Your Friendly Neighborhood Spider-Man"
+    },
+    {
+      "id": "eyes-of-wakanda",
+      "title": "Eyes of Wakanda"
+    },
+    {
+      "id": "marvel-zombies",
+      "title": "Marvel Zombies"
+    },
+    {
+      "id": "what-if",
+      "title": "What If...?"
+    },
+    {
+      "id": "guardians-holiday-special",
+      "title": "The Guardians of the Galaxy Holiday Special"
+    },
+    {
+      "id": "i-am-groot",
+      "title": "I Am Groot"
+    },
+    {
+      "id": "mpower",
+      "title": "MPower"
+    },
+    {
+      "id": "x-men-origins-wolverine",
+      "title": "X-Men Origins: Wolverine"
+    },
+    {
+      "id": "the-wolverine",
+      "title": "The Wolverine"
+    },
+    {
+      "id": "x-men-apocalypse",
+      "title": "X-Men: Apocalypse"
+    },
+    {
+      "id": "dark-phoenix",
+      "title": "Dark Phoenix"
+    },
+    {
+      "id": "the-new-mutants",
+      "title": "The New Mutants"
+    }
+  ],
+  "legacyQuoteRecordsPreservedButNotTreatedAsVerified": [
+    {
+      "id": "captain-america-first-avenger",
+      "title": "Captain America: The First Avenger"
+    },
+    {
+      "id": "endgame",
+      "title": "Avengers: Endgame"
+    }
+  ]
+}
